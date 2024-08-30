@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "WS2812B_Strip")(type "KiCad")(uri "${KIPRJMOD}/WS2812B_Strip.pretty")(options "")(descr ""))
+)
